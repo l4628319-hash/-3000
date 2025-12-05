@@ -107,4 +107,4 @@ def all_messages(message):
         disable_web_page_preview=True)
 
 print("Бот Глаз Бога 2025 запущен и готов к работе!")
-bot.infinity_polling(none_stop=True)
+bot.infinity_polling(none_stop=True) 
